@@ -1,0 +1,18 @@
+{
+  "name": "send",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoin-address": "^0.3.0",
+    "bitcore-explorers": "^1.0.1",
+    "bitcore-lib": "^8.6.0",
+    "bluebird": "^3.5.5",
+    "request": "^2.88.0"
+  }
+}
